@@ -60,7 +60,7 @@ html, body {
 @media only screen and (min-width: 800px) {
 
   .image {
-    min-height: 200px;
+    /*min-height: 200px;*/
 
     /* Create the parallax scrolling effect */
     /*background-attachment: fixed;
