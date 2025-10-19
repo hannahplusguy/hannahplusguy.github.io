@@ -467,6 +467,13 @@ html, body {
   color: inherit;
 }
 
+.section__faq h3 {
+  margin-top: 1rem;
+
+  font-size: 1.25rem;
+  color: inherit;
+}
+
 /* STANDALONE PAGE SPECIFIC */
 
 @media only screen and (min-width: 800px) {
