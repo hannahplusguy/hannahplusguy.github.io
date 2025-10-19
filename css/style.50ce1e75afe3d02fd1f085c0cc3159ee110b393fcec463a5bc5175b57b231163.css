@@ -461,6 +461,7 @@ html, body {
 
 .section__md-content h3 {
   margin-top: 0.5rem;
+  padding-left: 2rem;
 
   font-size: 1.25rem;
   color: inherit;
