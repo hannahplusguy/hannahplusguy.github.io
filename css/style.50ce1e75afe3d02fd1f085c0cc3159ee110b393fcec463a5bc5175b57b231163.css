@@ -459,6 +459,13 @@ html, body {
   font-style: italic;
 }
 
+.section__md-content h3 {
+  margin-top: 0.5rem;
+
+  font-size: 1.25rem;
+  color: inherit;
+}
+
 /* STANDALONE PAGE SPECIFIC */
 
 @media only screen and (min-width: 800px) {
@@ -472,6 +479,10 @@ html, body {
 .standalone h2 {
   margin-top: 2rem;
   margin-bottom: 1rem;
+}
+.standalone h3 {
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 .standalone ul,
