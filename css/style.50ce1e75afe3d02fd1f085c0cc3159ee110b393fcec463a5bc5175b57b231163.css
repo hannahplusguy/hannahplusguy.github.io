@@ -81,7 +81,7 @@ img {
   text-shadow: var(--dark-green) 2px 2px 0px;
   letter-spacing: 2px;
 
-  height: 100vh;
+  /*height: 100vh;*/
 }
 
 .header-svg {
