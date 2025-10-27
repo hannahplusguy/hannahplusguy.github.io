@@ -70,7 +70,7 @@ img {
 /* HEADING SECTION */
 .header {
   min-height: 200px;
-  margin-top: 20px;
+/*  margin-top: 20px;*/
   padding-bottom: 5vh;
   display: flex;
   flex-direction: column;
@@ -473,7 +473,7 @@ img {
 
 @media only screen and (min-width: 800px) {
   .standalone {
-    padding-top: 100px;
+/*    padding-top: 100px;*/
     /* avoid overlap with menu on desktop*/
   }
 }
