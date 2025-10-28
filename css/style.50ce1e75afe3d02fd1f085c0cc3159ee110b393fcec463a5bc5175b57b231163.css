@@ -76,7 +76,7 @@ img {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: var(--dark-green);
+  background-color: var(--dark-brown);
   color: var(--cream);
   text-shadow: var(--dark-brown) 2px 2px 0px;
   letter-spacing: 2px;
