@@ -43,28 +43,14 @@ img {
   --dark-green: #017955;
 }
 
-/* IMAGES - DESKTOP PARALLAX SCROLLING */
+/* IMAGE FOR TOP */
 
-.image {
-  /*height: 50vh;*/
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-}
 
-@media only screen and (min-width: 800px) {
 
-  .image {
-    /*min-height: 200px;*/
-
-    /* Create the parallax scrolling effect */
-    /*background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;*/
-
-    /*height: 700px;*/
-  }
+.img-top {
+  display: block;
+  margin: auto;
+  max-width: 100%;
 }
 
 /* HEADING SECTION */
