@@ -26,6 +26,10 @@ html, body {
   width: 100%;
 }
 
+table {
+  border-spacing: 20px;
+}
+
 img {
   display: block;
   margin: auto;
