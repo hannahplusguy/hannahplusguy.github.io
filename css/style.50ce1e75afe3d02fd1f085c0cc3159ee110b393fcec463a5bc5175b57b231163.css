@@ -436,7 +436,7 @@ img {
   text-align: left;
 }
 
-@media only screen and (min-width: 800px) {
+@media only screen {
   .section__md-content p {
     padding-left: 4rem;
     padding-right: 4rem;
