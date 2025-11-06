@@ -26,8 +26,15 @@ html, body {
   width: 100%;
 }
 
-table {
+th, td {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
   padding-right: 20px;
+}
+
+table {
+  border-spacing: 0px;
 }
 
 img {
